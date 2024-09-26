@@ -18,4 +18,3 @@ print("num1的值为%5d" % num1)
 print("num2的值为%5.2f" % num2)
 print(f"num1:{num1},num2:{num2}")
 print(f"num1:{num1},num2:{num2}")
-
