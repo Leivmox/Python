@@ -4,5 +4,10 @@ while i <= 9:
     while j <= i:
         print(f"{j}x{i}={j*i}", end="\t")
         j += 1
+
     print()
     i += 1
+
+
+
+print(阿巴阿巴)

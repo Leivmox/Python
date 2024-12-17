@@ -5,5 +5,5 @@ else:
     y = 0
 
 
-print(10)
+print("yyy")
 print(1 + 1)
