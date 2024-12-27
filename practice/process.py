@@ -73,6 +73,38 @@ from fractions import Fraction
 # print('on' in x)
 # print('1' in x)
 
-x = 'python'
-print(x[0])
-print(x[-1])
+# x = 'python'
+# print(x[0])
+# print(x[-1])
+# print(x[1:])
+# print(x*5)
+
+# y = 'abc','xyz'
+# print(y)
+# print(type(y))
+
+# x = 'Python'
+# print(x[1:4])
+# print(x[1:])
+# print(x[0:4])
+# print(x[:4])
+# print(x[0:5])
+# print(x[:-1])
+# print(x[:])
+
+# for a in x:
+#     print(a,end="")
+# print()
+
+# print(len(x))
+
+# print(type(str(10.1)))
+# print(type(str(False)))
+
+
+# x = 'Python'
+# print(str([1,2,3]))
+
+# print(type(int('10',2)))
+# print(int('10',2))
+
